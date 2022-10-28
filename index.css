@@ -1,0 +1,50 @@
+header {
+    background-color: burlywood;
+    border-width: 0rem;
+    text-align: center;
+    margin: 1.1rem;
+    padding: 1.1rem;
+}
+h1{
+    color: blue;
+    font-weight: bold;
+}
+h5{
+    font-weight: bold;
+    font-style: italic;
+}
+h2{
+    color: orange;
+    font-weight: bold;
+}
+h6 {
+    font-style: unset;
+}
+h4 {
+    font-size: 0.8rem;
+    font-style: italic;
+}
+p{
+    margin: 1rem;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+table{
+    border-width: 1rem;
+}
+caption{
+    align-items: center;
+    align-self: center;
+}
+iframe {
+    text-align: center;
+}
+footer {
+    background-color: burlywood;
+    border-width: 0rem;
+    text-align: center;
+    margin: 1.1rem;
+    padding: 1.1rem;
+
+}
